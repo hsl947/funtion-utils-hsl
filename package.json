@@ -1,0 +1,20 @@
+{
+  "name": "funtion-utils-hsl",
+  "version": "1.0.0",
+  "description": "My common function utils.",
+  "main": "index.js",
+  "scripts": {
+    "login": "npm login",
+    "publish": "npm publish"
+  },
+  "keywords": [
+    "function",
+    "lodash"
+  ],
+  "author": "hsl",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-plugin-hsl": "^1.0.2",
+    "typescript": "^4.2.4"
+  }
+}
